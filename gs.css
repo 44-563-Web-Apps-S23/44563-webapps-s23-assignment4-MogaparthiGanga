@@ -4,3 +4,20 @@
 .mary {color: blue;}
 .ollivant{color:brown}
 .emily{color:blueviolet}
+.table-style{
+    border: solid 3px;
+    background-color:cornsilk;
+    text-align: center;
+    grid-row: auto;
+    padding: 2px;
+    margin: 2px;
+    
+}
+.td, .th {
+    border: solid 1px;
+    color:darkblue;
+}
+
+.tr:nth-child(even){
+    background-color: lightgrey;
+}
