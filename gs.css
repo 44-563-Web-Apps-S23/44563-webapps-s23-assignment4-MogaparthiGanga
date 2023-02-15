@@ -4,6 +4,9 @@
 .mary {color: blue;}
 .ollivant{color:brown}
 .emily{color:blueviolet}
+.mary:hover{text-shadow: 2px 2px 5px;color:green;border: dotted 2px}
+.ollivant:hover{text-shadow: 2px 2px 5px;color:green;border: dotted 2px}
+.emily:hover{text-shadow: 2px 2px 5px;color:green;border: dotted 2px}
 .table-style{
     border: solid 3px;
     background-color:cornsilk;
