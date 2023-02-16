@@ -25,4 +25,18 @@
 .tr:nth-child(even){
     background-color: lightgrey;
 }
+.imageDisplay{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
 
+.navbar-horizontal a {
+    display:block;
+    padding: 10px;
+  }
+/* on hover change the link color*/
+.navbar-horizontal a:hover {  
+    background-color: black;
+    color:white;
+}
