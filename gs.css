@@ -8,4 +8,21 @@
 .mary:hover{text-shadow: 2px 2px 5px;color:green;border: dotted 2px}
 .ollivant:hover{text-shadow: 2px 2px 5px;color:green;border: dotted 2px}
 .emily:hover{text-shadow: 2px 2px 5px;color:green;border: dotted 2px}
+.table-style{
+    border: solid 3px;
+    background-color:cornsilk;
+    text-align: center;
+    grid-row: auto;
+    padding: 2px;
+    margin: 2px;
+    
+}
+.td, .th {
+    border: solid 1px;
+    color:darkblue;
+}
+
+.tr:nth-child(even){
+    background-color: lightgrey;
+}
 
